@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\IEnergyConsumer.cs" />
+    <Compile Include="Models\IRecordable.cs" />
+    <Compile Include="Models\RobotVacuum.cs" />
+    <Compile Include="Models\SecurityCamera.cs" />
+    <Compile Include="Models\SmartDevice.cs" />
+    <Compile Include="Models\SmartKettle.cs" />
+    <Compile Include="Models\SmartLight.cs" />
+    <Compile Include="Models\SmartSpeaker.cs" />
+    <Compile Include="Models\Thermostat.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
